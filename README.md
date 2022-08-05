@@ -1,6 +1,6 @@
 # Protocolo HFTP
 Llamaremos Home-made File Transfer Protocol (HFTP) a un protocolo de transferencia de
-archivos casero, creado por nosotros específicamente para este laboratorio.
+archivos casero.
     
 HFTP es un protocolo de capa de aplicación que usa TCP como protocolo de transporte. Un servidor de HFTP escucha pedidos en el puerto TCP 19500.
 
